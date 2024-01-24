@@ -14,6 +14,6 @@
   4. Click on enter.
   5. If nothing happened try the third and final method.
 ## Third Method
-  1. Go [codepen](codepen.io)
+  1. Go [codepen](https://codepen.io)
   2. Make a new pen.
   3. Set the JS input to the "index.min.js" file.
